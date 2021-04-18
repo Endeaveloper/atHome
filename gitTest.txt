@@ -5,3 +5,6 @@ C:\Program Files\Git\etc\gitconfig 에서
 git config --edit --system to remove the helper = manager 
 매니저를 리무브함 헤헤 ^^ 
 이후 git commit 후 git Push 까지 됨 확인. 
+
+git config --global core.askPass "" 
+pop창 안뜨게 하는거
